@@ -1,0 +1,26 @@
+html {
+  font-size: 62.5%;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.app-center {
+  position: relative;
+}
+
+:root {
+  --orangeyellow: #FABC2A;
+  --sheengreen: #70E000;
+  --rosarojo: #ff005c;
+}
+
+  /* font-family: Gameplay;
+  letter-spacing: 2px;
+  font-weight: 100; 
+  font-family: 'Poppins', sans-serif;
+  font-family: 'Roboto', sans-serif;
+  */
