@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/xfolio/static/css/main.83417886.css",
+    "main.js": "/xfolio/static/js/main.877bc0a3.js",
+    "static/media/nightlife.gif": "/xfolio/static/media/nightlife.156f582936bbbe1aeffd.gif",
+    "static/media/xfolio-app.png": "/xfolio/static/media/xfolio-app.c2873ce16c16b5d0add1.png",
+    "static/media/react-redux-api-reqres.png": "/xfolio/static/media/react-redux-api-reqres.3e324b1654a1bf1f8f2f.png",
+    "static/media/react-logo.png": "/xfolio/static/media/react-logo.c1400a56b9ac0900068f.png",
+    "static/media/app-thedog-api.png": "/xfolio/static/media/app-thedog-api.ef7ae4851c373399b8e0.png",
+    "static/media/sqlserver-logo.png": "/xfolio/static/media/sqlserver-logo.403e5164098be45b043a.png",
+    "static/media/maven-logo.png": "/xfolio/static/media/maven-logo.fbeeca81d852c254e4dd.png",
+    "static/media/front-react-employees-list.png": "/xfolio/static/media/front-react-employees-list.610e6587f600860ddb4b.png",
+    "static/media/postman-logo.png": "/xfolio/static/media/postman-logo.256c61ae697e3e423fc9.png",
+    "static/media/app-thebreakingbad-api.png": "/xfolio/static/media/app-thebreakingbad-api.cb67abce260d5ba4f054.png",
+    "static/media/btn_list2.gif": "/xfolio/static/media/btn_list2.892d8f26c982ec2cb60e.gif",
+    "static/media/Gameplay.ttf": "/xfolio/static/media/Gameplay.c260d5d9ff7767168dd3.ttf",
+    "static/media/app-tareas.png": "/xfolio/static/media/app-tareas.5330667b0184ec2ed03f.png",
+    "static/media/css-logo.png": "/xfolio/static/media/css-logo.660ea470cbbf91d21237.png",
+    "static/media/mysql-logo.png": "/xfolio/static/media/mysql-logo.e27a74cedbee3a41652f.png",
+    "static/media/styled-components-logo.png": "/xfolio/static/media/styled-components-logo.e6a5ff4b05fc83104b87.png",
+    "static/media/java-logo.png": "/xfolio/static/media/java-logo.962ff8f7cedcb0bad5c4.png",
+    "index.html": "/xfolio/index.html",
+    "main.83417886.css.map": "/xfolio/static/css/main.83417886.css.map",
+    "main.877bc0a3.js.map": "/xfolio/static/js/main.877bc0a3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83417886.css",
+    "static/js/main.877bc0a3.js"
+  ]
+}
